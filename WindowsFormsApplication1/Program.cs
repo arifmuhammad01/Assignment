@@ -19,7 +19,8 @@ namespace WindowsFormsApplication1
             //Application.Run(new CustomerInformainUi());
            // Application.Run(new ArrayUi());
             //Application.Run(new CustomerInformation());
-            Application.Run(new CustomerInformationListUi());
+            //Application.Run(new CustomerInformationListUi());
+            Application.Run(new Test());
 
         }
     }
